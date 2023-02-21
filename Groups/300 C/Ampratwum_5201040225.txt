@@ -1,0 +1,49 @@
+Q1. a software process model is the mechanism of dividing software development work into distinct phases 
+to improve design, product management, and project management. It is also known as a software development life cycle.
+ Software processes are the methods and techniques used to develop software products or the systems used to make computers function usefully.
+ Simulation is the use of models to reflect a real situation,with the intent of studying system behavior under various imposed conditions.
+The software processes models allows software developers to provide better estimates, deliver secure systems,
+ have a clear understanding of the job in front, keep the client informed, and discover hazards earlier.
+
+WATERFALL MODEL
+ Q2.The Waterfall methodology — also known as the Waterfall model — is a sequential development process that flows like a waterfall through all phases 
+ of a project (analysis, design, development, and testing, for example), with each phase completely wrapping up before the next phase begins Waterfall is that Waterfall breaks 
+ down software development into isolated phases that flow into each other, while Agile advocates iterative 
+ development cycles in which multiple lifecycle phases can run in parallel.Waterfall software helps project managers handle the task. As Waterfalls are 
+ a relatively complex, phased approach, they require close attention and coordination.The Waterfall methodology follows a chronological process and works based on
+  fixed dates, requirements, and outcomes. With this method, the individual execution teams aren’t required 
+ to be in constant communication and, unless specific integrations are required, are usually self-contained.
+
+
+ AGILE MODEL
+ The Agile methodology is a way to manage a project by breaking it up into several phases.
+  It involves constant collaboration with stakeholders and continuous improvement at every stage.
+   Once the work begins, teams cycle through a process of planning, executing, and evaluating.Agile methodology is
+    a project management framework that breaks projects down into several dynamic phases, commonly known as sprints. 
+The Agile framework is an iterative methodology. After every sprint, teams reflect and look back to see if 
+there was anything that could be improved so they can adjust their strategy for the next sprint.
+Agile software development refers to software development methodologies centered around the idea of iterative 
+development, where requirements and solutions evolve through collaboration between self-organizing
+ cross-functional teams. The ultimate value in Agile development is that it enables teams to deliver 
+ value faster, with greater quality and predictability, and greater aptitude to respond to change.
+
+ The differences between the waterfall model and the Agile model is that Waterfall breaks down software 
+ development into isolated phases that flow into each other, while Agile advocates iterative development 
+ cycles in which multiple lifecycle phases can run in parallel.
+ Advantages of the Waterfall model. Waterfall relies on teams following a sequence of steps and never moving
+  forward until the previous phase has been completed. This structure is suited to smaller projects with 
+  deliverables that are easy to define from the start.Uses clear structure. When compared with other methodologies, 
+  Waterfall focuses most on a clear, defined set of steps
+  The benefits of Agile makes the managers' job easier and allows them to have greater control over their
+   projects. What makes Agile project management truly unique is the fact that it focuses on both, 
+   delivering quality and value to the customer, and completing the project within the given project 
+   constraints.
+
+   Q3.Rational Unified Process is the ultimate guide for assigning tasks and responsibilities within
+    a development organization and developing high-quality software that meets the needs and requirements of
+     its users.Waterfalls typically promoted the concept of a 'contractual' Software Requirement or Software 
+     Specification document, which defined the deliverable (functionally, and non-functionally), and from 
+     which a project budget or fixed price transaction would be based. Instead, RUP promoted budgeting at a
+      per-phase basis, e.g. and the effort / cost for the following phase would be known / iterated / 
+      improved as one of the deliverables of the preceding phase had been delivered.
+      
